@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ft-frontend/static/css/main.73cad5d4.css",
+    "main.js": "/ft-frontend/static/js/main.65270997.js",
+    "static/js/453.74426d1b.chunk.js": "/ft-frontend/static/js/453.74426d1b.chunk.js",
+    "static/media/logo.svg": "/ft-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ft-frontend/index.html",
+    "main.73cad5d4.css.map": "/ft-frontend/static/css/main.73cad5d4.css.map",
+    "main.65270997.js.map": "/ft-frontend/static/js/main.65270997.js.map",
+    "453.74426d1b.chunk.js.map": "/ft-frontend/static/js/453.74426d1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73cad5d4.css",
+    "static/js/main.65270997.js"
+  ]
+}
